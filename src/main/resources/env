@@ -1,0 +1,9 @@
+MONGO_DATABASE="movie-api-db"
+MONGO_USER="SolidChild"
+MONGO_PASSWORD="VxcSnGkUc2txfxpu"
+MONGO_CLUSTER="@cluster0.tbrte.mongodb.net"
+
+
+
+
+
